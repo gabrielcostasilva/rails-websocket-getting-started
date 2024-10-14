@@ -7,7 +7,7 @@ This project simulates exchanging messages in a chat app. Once the visitor is su
 <img src="./demo.gif">
 
 ## Further References
-[Official doc](https://guides.rubyonrails.org/action_cable_overview.html)
-[Purposed all-you-need guide](https://medium.com/@amdepaolo/a-hopefully-comprehensible-guide-to-using-actioncable-in-rails-33b85a1fbc0)
-[Second guide](https://dev.to/lucaskuhn/a-simple-guide-to-action-cable-2dk2)
-[Third guide](https://blog.dennisokeeffe.com/blog/2022-02-28-action-cable-hello-world-with-rails-7)
+- [Official doc](https://guides.rubyonrails.org/action_cable_overview.html)
+- [Purposed all-you-need guide](https://medium.com/@amdepaolo/a-hopefully-comprehensible-guide-to-using-actioncable-in-rails-33b85a1fbc0)
+- [Second guide](https://dev.to/lucaskuhn/a-simple-guide-to-action-cable-2dk2)
+- [Third guide](https://blog.dennisokeeffe.com/blog/2022-02-28-action-cable-hello-world-with-rails-7)
